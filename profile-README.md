@@ -13,7 +13,6 @@ I build AI agents and data-driven software, and I like to evaluate what I build 
 |---|---|---|
 | [masd-wifi-imu-substitutability](https://github.com/joostliebeton/masd-wifi-imu-substitutability) | Code for my UbiComp '26 paper: can ambient WiFi sensing replace a wearable IMU for activity recognition? Includes a corrected, from-raw CSI pipeline for the MASD dataset. | Python, PyTorch |
 | [Exploding-kittens-App](https://github.com/joostliebeton/Exploding-kittens-App) | Multiplayer card game with a multithreaded socket server, a custom text protocol and JUnit tests. University project, graded 9. | Java, JUnit 5 |
-| [Earnit-company-](https://github.com/joostliebeton/Earnit-company-) | Web platform where students track their earnings, tax returns and VAT forms. Team project for a real client. | Java, Jersey, PostgreSQL, JavaScript |
 | [whatsapp_chat_analysis](https://github.com/TimAngevare/whatsapp_chat_analysis) | Statistics dashboard for exported WhatsApp chats, built with [@TimAngevare](https://github.com/TimAngevare). | Python, React |
 
 ## Tech
